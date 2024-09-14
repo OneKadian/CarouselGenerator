@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "CustomFont";
+  src: url("../../fonts/vocal.otf") format("opentype");
+}
+.bingo {
+  font-family: "CustomFont";
+}
